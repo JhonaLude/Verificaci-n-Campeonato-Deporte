@@ -1,2 +1,2 @@
-# Verificaci-n-Campeonato-Deporte
+# Verificación Campeonato Deporte
 Verificación Campeonato deporte
