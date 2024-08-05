@@ -8,6 +8,7 @@ Diagrama UML
 Realizar Zoom para una mejor visualización
 
 
+
 Prueba de Ejecución en NetBeans
 
 ![Captura de pantalla 2024-08-04 233229](https://github.com/user-attachments/assets/ae0948e8-dc18-4458-97b7-34ef27e02a73)
